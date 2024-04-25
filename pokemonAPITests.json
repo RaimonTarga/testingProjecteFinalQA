@@ -1,0 +1,35 @@
+[
+    {
+        "search_term": "blastoise",
+        "expected_results":
+        [
+            "blastoise",
+            "blastoise mega"
+        ]
+    },
+    {
+        "search_term": "hit",
+        "expected_results":
+        [
+            "basculin white striped",
+            "gothita",
+            "squawkabilly white plumage",
+            "hitmonchan",
+            "makuhita",
+            "kyurem white",
+            "hitmonlee",
+            "gothitelle",
+            "hitmontop"
+        ]
+    },
+    {
+        "search_term": "111",
+        "expected_results":[]
+    },
+    {
+        "search_term": "Charmander",
+        "expected_results":[
+            "charmander"
+        ]
+    }
+]
